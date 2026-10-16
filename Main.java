@@ -1,10 +1,12 @@
+import java.util.function.p;
 public class Main {
-    public static void main (String[]args){
-        
-    }
-    Pokemon p1 = new Pokemon();
+    public static void Main(String[] args) {
+    //      MathOperation add =(a,b) -> a+b;
+    // MathOperation subtract =(a,b) -> a-b;
+    // MathOperation multiply=(a,b) ->a*b;
+    // MathOperation division=(a,b) ->a/b;
 
-    
-    p1.level=1;
-    System.out.println(p1.name +p1.level);
+
+    // System.out.println("addition" +add.operate( 5,6));
+    // }
 }
