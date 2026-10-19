@@ -1,6 +1,6 @@
 public class Main{
     public static void main(String []args){
-        String [] fruits ={"apple","orange","cocunut"};
+     String [] fruits ={"apple","orange","cocunut"};
         int numOffruits=fruits.length;
         System.out.println(fruits[0]);
         System.out.println(numOffruits);
